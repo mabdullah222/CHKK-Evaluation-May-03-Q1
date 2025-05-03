@@ -1,0 +1,11 @@
+{
+    "id": {
+      "S": "45094c01-46f8-40f9-ae83-6bae7e0fa2d2"
+    },
+    "summaryData": {
+      "S": "Here is a JSON summary of the transaction data:\n\n```\n{\n  \"departments\": {\n    \"Sales\": 5,\n    \"Engineering\": 7,\n    \"HR\": 5,\n    \"Marketing\": 6,\n    \"Finance\": 2,\n    \"IT\": 2\n  },\n  \"categories\": {\n    \"Software\": 7,\n    \"Data\": 1,\n    \"Event\": 1,\n    \"Cloud\": 1,\n    \"Security\": 1,\n    \"Merchandise\": 1,\n    \"Training\": 2,\n    \"Advertising\": 2,\n    \"Media\": 1,\n    \"Consulting\": 1,\n    \"Hardware\": 2,\n    \"Professional Service\": 1\n  },\n  \"approval_status\": {\n    \"Approved\": 14,\n    \"Pending\": 5,\n    \"Rejected\": 1\n  },\n  \"vendors\": {\n    \"Salesforce\": 1,\n    \"ZoomInfo\": 1,\n    \"EventCorp\": 1,\n    \"JetBrains\": 1,\n    \"AWS\": 1,\n    \"HackerOne\": 1,\n    \"GitHub\": 1,\n    \"ConfWorld\": 1,\n    \"LinkedIn\": 1,\n    \"SwagCo\": 1,\n    \"Udemy\": 1,\n    \"AgileCo\": 1,\n    \"Meta\": 1,\n    \"VideoMakers\": 1,\n    \"InfluBuddy\": 1,\n    \"AdWords\": 1,\n    \"QuickBooks\": 1,\n    \"Taxify\": 1,\n    \"Cisco\": 1,\n    \"Dell\": 1\n  },\n  \"cost_centers\": {\n    \"CC-SAL-01\": 2,\n    \"CC-SAL-02\": 1,\n    \"CC-SAL-03\": 1,\n    \"CC-ENG-01\":  \"CC-ENG-02\": 2,\n    \"CC-ENG-03\": 1,\n    \"CC-HR-01\": 2,\n    \"CC-HR-02\": 2,\n    \"CC-MKT-01\": 2,\n    \"CC-MKT-02\": 1,\n    \"CC-MKT-03\": 1,\n    \"CC-FIN-01\": 2,\n    \"CC-IT-01\": 1,\n    \"CC-IT-02\": 1\n  },\n  \"payment_methods\": {\n    \"Credit Card\": 13,\n    \"Wire Transfer\": 3,\n    \"Invoice\": 4\n  }\n}\n```\n\nLet me know if you'd like me to summarize anything else!"
+    },
+    "timestamp": {
+      "S": "8ff396cb-1e7b-4e1b-8cc5-bc9ab8de29c5"
+    }
+  }
