@@ -1,0 +1,8 @@
+__pycache__/
+cdk.out/
+.env
+*.pyc
+.idea/
+.vscode/
+node_modules/
+.venv/
